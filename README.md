@@ -129,8 +129,8 @@ Documentos que capturan decisiones arquitectónicas críticas, incluyendo contex
 | # | ADR | Decisión | Alternativa Descartada | Justificación de Negocio |
 |---|-----|----------|------------------------|---------------------------|
 | 1 | **[001-strangler-fig-migration.md](./adr/001-strangler-fig-migration.md)** | Strangler Fig Pattern | Big Bang Rewrite | Reduce riesgo de $2M a $170K, permite rollback en < 5 min |
-| 2 | **[002-api-gateway-implementation.md](./adr/002-api-gateway-implementation.md)** | Kong Enterprise | Oracle APICS | Ahorro de $670K en 3 años, time-to-market 6 meses vs 12 |
-| 3 | **[003-circuit-breaker-pattern.md](./adr/003-circuit-breaker-pattern.md)** | Resilience4j | Hystrix | Hystrix en mantenimiento desde 2020, riesgo de soporte enterprise |
+| 2 | **[002-api-gateway-implementation.md](./adr/002-API-Gateway-Implementation.md)** | Kong Enterprise | Oracle APICS | Ahorro de $670K en 3 años, time-to-market 6 meses vs 12 |
+| 3 | **[003-circuit-breaker-pattern.md](./adr/003-Circuit-Breaker-Pattern.md)** | Resilience4j | Hystrix | Hystrix en mantenimiento desde 2020, riesgo de soporte enterprise |
 | 4 | **[004-cross-team-alignment-framework.md](./adr/004-Cross-Team-Alignment-Framework.md)** | Cross-Team Alignment | Estructura funcional tradicional | Alinea Conway's Law, reduce dependencias entre equipos en 70% |
 
 ### 📗 Guidelines & Baselines
