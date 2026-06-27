@@ -202,9 +202,9 @@ El portafolio completo incluye los siguientes artefactos enterprise:
 
 ### 📘 Architecture Decision Records (ADRs)
 1. `001-strangler-fig-migration.md` — Estrategia de migración incremental.
-2. `002-api-gateway-implementation.md` — Selección de Kong Enterprise.
-3. `003-circuit-breaker-pattern.md` — Resiliencia con Resilience4j.
-4. `004-cross-team-alignment-framework.md` — Alineación organizacional.
+2. `002-API-Gateway-Implementation.md` — Selección de Kong Enterprise.
+3. `003-Circuit-Breaker-Pattern.md` — Resiliencia con Resilience4j.
+4. `004-Cross-Team-Alignment-Framework.md` — Alineación organizacional.
 
 ### 📗 Guidelines y Baselines
 5. `api-design-guidelines.md` — Estándares de diseño de APIs (OpenAPI 3.0, versioning, idempotencia).

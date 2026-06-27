@@ -300,7 +300,7 @@ Resumen ejecutivo del case study para presentaciones ante ARB, comités ejecutiv
 
 Este portafolio demuestra **experiencia enterprise real** en arquitectura de aplicaciones. Los artefactos están organizados para facilitar la evaluación:
 
-1. **Inicio rápido**: Lee el [Executive Case Study](./case-study-ERLN-executive-summary.md) para entender el contexto y resultados.
+1. **Inicio rápido**: Lee el [Executive Case Study](./case-study/case-study-ERLN-executive-summary.md) para entender el contexto y resultados.
 2. **Profundización técnica**: Revisa los [ADRs](#-architecture-decision-records-adrs) para ver cómo se tomaron decisiones críticas.
 3. **Estándares de calidad**: Explora las [Guidelines](#-guidelines--baselines) para entender los estándares aplicados.
 4. **Capacidad operativa**: Revisa los [Templates](#-operational-templates) para ver cómo se gestionan proyectos enterprise.
