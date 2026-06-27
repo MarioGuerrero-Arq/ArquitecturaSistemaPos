@@ -372,7 +372,7 @@ Este portafolio es de **uso profesional** para entrevistas técnicas y referenci
 
 **¿Interesado en discutir arquitectura enterprise?**
 
-[Contáctame](mailto:tu-email@ejemplo.com) | [Ver LinkedIn](https://linkedin.com/in/tu-perfil) | [Explorar Portafolio](#-portafolio-de-artefactos)
+[Contáctame](mailto:mario.guerrerom@outlook.com) | [Ver LinkedIn](https://www.linkedin.com/in/mario-guerrero-arc/) | [Explorar Portafolio](https://github.com/MarioGuerrero-Arq)
 
 *Última actualización: 2026-06-27 | Versión: 1.0*
 
