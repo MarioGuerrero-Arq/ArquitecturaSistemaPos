@@ -339,9 +339,9 @@ Este portafolio puede servir como **referencia y template** para tus propios pro
 **Mario Guerrero**
 Enterprise Application Architect
 
-- 📧 Email: [tu-email@ejemplo.com](mailto:mario.guerrerom@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/mario-guerrero-arc/)
-- 🐙 GitHub: [github.com/tu-usuario](https://github.com/MarioGuerrero-Arq)
+- 📧 Email: [mario.guerrerom@outlook.com](mailto:mario.guerrerom@outlook.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/mario-guerrero-arc/](https://www.linkedin.com/in/mario-guerrero-arc/)
+- 🐙 GitHub: [https://github.com/MarioGuerrero-Arq](https://github.com/MarioGuerrero-Arq)
 
 ---
 
