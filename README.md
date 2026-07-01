@@ -159,7 +159,8 @@ Resumen ejecutivo del case study para presentaciones ante ARB, comités ejecutiv
 
 | # | Documento | Propósito | Audiencia |
 |---|-----------|-----------|-----------|
-| 11 | **[case-study-ERLN-executive-summary.md](./case-study/case-study-ERLN-executive-summary.md)** | Executive brief del caso ERLN | CTO, ARB, reclutadores, entrevistadores técnicos |
+| 11 | **[case-study-
+-executive-summary.md](./case-study/case-study-ERLN-executive-summary.md)** | Executive brief del caso ERLN | CTO, ARB, reclutadores, entrevistadores técnicos |
 
 ---
 
@@ -328,9 +329,7 @@ Este portafolio puede servir como **referencia y template** para tus propios pro
 
 ## 🏆 Reconocimientos
 
-- **Premio interno de Innovación Tecnológica 2025** (categoría "Transformación Enterprise").
-- **Caso presentado en Oracle Latin America Summit 2025** (migración Oracle 12c + TDE).
-- **Benchmark adoptado** por otras unidades de negocio del grupo (ERLN Gas, ERLN Farmacias).
+
 
 ---
 
