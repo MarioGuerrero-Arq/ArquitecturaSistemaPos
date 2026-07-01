@@ -290,11 +290,6 @@ Cada decisión arquitectónica fue evaluada con tres lentes:
 - **Internal Developer Portal** (Backstage) con self-service para 120+ desarrolladores.
 - **Golden paths** documentados para nuevas funcionalidades (time-to-hello-world < 1 día).
 
-### Reconocimientos
-- **Premio interno de Innovación Tecnológica 2025** (categoría "Transformación Enterprise").
-- **Caso presentado en Oracle Latin America Summit 2025** (migración Oracle 12c + TDE).
-- **Benchmark adoptado** por otras unidades de negocio del grupo (ERLN Gas, ERLN Farmacias).
-
 ---
 
 ## 📞 Contacto y Profundización
@@ -325,8 +320,8 @@ Este case study es parte de un **portafolio de arquitectura** disponible en GitH
 
 ---
 
-**Última actualización:** 2026-06-27  
-**Versión:** 1.0  
+**Última actualización:** 2026-06-30  
+**Versión:** 1.1  
 **Autor:** Mario Guerrero — Enterprise Application Architect  
 **Contexto:** Caso de estudio enterprise basado en experiencia real anonimizada  
 **Licencia:** Portafolio profesional — Uso para entrevistas técnicas y referencias profesionales

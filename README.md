@@ -327,12 +327,6 @@ Este portafolio puede servir como **referencia y template** para tus propios pro
 
 ---
 
-## 🏆 Reconocimientos
-
-
-
----
-
 ## 📞 Contacto
 
 **Mario Guerrero**
@@ -373,6 +367,6 @@ Este portafolio es de **uso profesional** para entrevistas técnicas y referenci
 
 [Contáctame](mailto:mario.guerrerom@outlook.com) | [Ver LinkedIn](https://www.linkedin.com/in/mario-guerrero-arc/) | [Explorar Portafolio](https://github.com/MarioGuerrero-Arq)
 
-*Última actualización: 2026-06-27 | Versión: 1.0*
+*Última actualización: 2026-06-30 | Versión: 1.1*
 
 </div>
